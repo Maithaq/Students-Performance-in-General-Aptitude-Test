@@ -24,3 +24,7 @@ Tools
 - Matplotlib 
 - Seborn 
 - Visme
+
+
+  # Blog
+  [Why did the Eastern Province students perform better?](https://missmaitha95.wixsite.com/my-site/post/manage-your-blog-from-your-live-site)
